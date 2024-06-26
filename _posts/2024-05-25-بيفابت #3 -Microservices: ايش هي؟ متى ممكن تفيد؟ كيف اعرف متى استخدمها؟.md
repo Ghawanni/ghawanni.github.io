@@ -23,10 +23,9 @@ permalink: befabit-3
 
 الحلقة هذي شويه ادسم مما مضى، لكن فيها فائدة كبيرة ان شاء الله لأحدى اهم انماط المعماريات البرمجية وأكثرها شيوعا. 🚀
 
-تقدر تشوفها [**على يوتيوب الآن**](https://youtu.be/tENLnGFEgdI?si=OJt5XCFqmH9sgNsm)
+تقدر تشوفها [**على يوتيوب الآن**](https://www.youtube.com/live/jI2jFj7tW1c?si=jA4L5SdAgFGQqtb2)
 
 اتمنى لكم مشاهدة ممتعة، وكأي شخص يحط اي شي فالحياة على يوتيوب، لازم اقول لا **تحرمونا من اللايك والسبسكرايب. 😉**
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tENLnGFEgdI?si=aVRqfm7-5qRLh9Kt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jI2jFj7tW1c?si=A-OKASHfU9Y644zZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
