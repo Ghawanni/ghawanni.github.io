@@ -12,16 +12,16 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-rtl                      : false # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Mohammed Ghawanni | محمد غوني"
+locale                   : "ar"
+rtl                      : true # true, false (default) # turns direction of the page into right to left for RTL languages
+title                    : "اسم مبتكر لمدونة 📖"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Mohammed Ghawanni"
-description              : "Hello. :)"
+name                     : "محمد غوني"
+description              : "أهلا وسهلا! 👋🏻"
 url                      : "ghawanni.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "ghawanni/ghawanni.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -113,10 +113,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mohammed Ghawanni"
+  name             : "محمد غوني"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "A dude from Medinah."
-  location         : "Riyadh"
+  bio              : "أكتب هنا عن اشياء اتعلمها عشان انشر العلم.\n فالغالب تكون مواضيع تقنية لكن توقع الشطحات. :)"
+  location         : "الرياض"
   email            : "ghawanni.m@gmail.com"
   links:
     - label: "Email"

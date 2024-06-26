@@ -6,6 +6,11 @@
    Typography
    ========================================================================== */
 
+// Almarai font import
+@import url("https://fonts.googleapis.com/css2?family=Almarai:wght@300;400;700;800&display=swap");
+// Rubik font import
+@import url("https://fonts.googleapis.com/css2?family=Almarai:wght@300;400;700;800&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap");
+
 $doc-font-size: 16 !default;
 
 /* paragraph indention */
@@ -16,11 +21,8 @@ $indent-var: 1.3em !default;
 $serif: Georgia, Times, serif !default;
 $sans-serif: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
   "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
-$monospace: Monaco, Consolas, "Lucida Console", monospace !default;
-
-/* sans serif typefaces */
-$sans-serif-narrow: $sans-serif !default;
-$helvetica: Helvetica, "Helvetica Neue", Arial, sans-serif !default;
+$monospace: "Rubik", "Monaco", Consolas, "Lucida Console", monospace !default;
+$almarai: "Almarai", $sans-serif !default;
 
 /* serif typefaces */
 $georgia: Georgia, serif !default;
@@ -29,9 +31,9 @@ $bodoni: "Bodoni MT", serif !default;
 $calisto: "Calisto MT", serif !default;
 $garamond: Garamond, serif !default;
 
-$global-font-family: $sans-serif !default;
-$header-font-family: $sans-serif !default;
-$caption-font-family: $serif !default;
+$global-font-family: $almarai !default;
+$header-font-family: $almarai !default;
+$caption-font-family: $almarai !default;
 
 /* type scale */
 $type-size-1: 2.441em !default; // ~39.056px
