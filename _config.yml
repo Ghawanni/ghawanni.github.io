@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ar"
@@ -27,7 +27,7 @@ baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "ghawanni/ghawanni.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           :  # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "محمد غوني"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "assets/images/personal.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "أكتب هنا عن اشياء اتعلمها عشان انشر العلم.\n فالغالب تكون مواضيع تقنية لكن توقع الشطحات. :)"
   location         : "الرياض"
   email            : "ghawanni.m@gmail.com"
