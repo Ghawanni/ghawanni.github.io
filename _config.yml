@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 # Site Settings
 locale                   : "ar"
 rtl                      : true # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "اسم مبتكر لمدونة 📖"
+title                    : "اسم مبتكر لمدونة تقنية 📖"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "محمد غوني"
@@ -128,18 +128,21 @@ author:
   location         : "الرياض"
   email            : "ghawanni.m@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:ghawanni.m@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://ghawanni.com"
+    - label: "LinkedIn"
+      icon:  "fa-brands fa-linkedin"
+      url: "https://www.linkedin.com/in/mohammedghawanni/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/m7md_ghawanni"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ghawanni"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:ghawanni.m@gmail.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://ghawanni.com"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/llamanaama/"
@@ -148,6 +151,9 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "LinkedIn"
+      icon:  "fa-brands fa-linkedin"
+      url: "https://www.linkedin.com/in/mohammedghawanni/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/m7md_ghawanni"
