@@ -30,7 +30,7 @@ logo                     : # path of logo image to display in the masthead, e.g.
 masthead_title           :  # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
-enable_copy_code_button  : # true, false (default)
+enable_copy_code_button  : true # true, false (default)
 copyright                : # "copyright" name, defaults to site.title
 copyright_url            : # "copyright" URL, defaults to site.url
 comments:
@@ -90,7 +90,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "m7md_ghawanni"
 facebook:
   username               :
   app_id                 :
@@ -115,50 +115,48 @@ analytics:
 author:
   name             : "محمد غوني"
   avatar           : "assets/images/personal.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "أكتب هنا عن اشياء اتعلمها عشان انشر العلم.\n فالغالب تكون مواضيع تقنية لكن توقع الشطحات. :)"
+  bio              : | 
+    شريك مؤسس في سكيلرز (https://withscalers.com)
+    والمدير التنفيذي للتقنية. 👨‍💻
+
+    أحب هندسة البرمجيات، علم البيانات، ألعاب الفيديو، الأحياء وصحة الانسان، وغالبا بتلاقي هذه المواضيع تنعكس في ما أكتب. 📝
+
+    أب لثلاث قطط رهيبة، وزوج لعالمة بيانات عالمية. 🧠
+    
+    سويت هذه المدونة لعل وعسى أحد يستفيد من معلومة تعلمتها، واثراء للمحتوى العربي (التقني خصوصا) 🙌🏻✨
+
   location         : "الرياض"
   email            : "ghawanni.m@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:ghawanni.m@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://ghawanni.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://x.com/m7md_ghawanni"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/ghawanni"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/llamanaama/"
+
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://x.com/m7md_ghawanni"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
+      url: "https://github.com/ghawanni"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://www.instagram.com/llamanaama/"
 
 
 # Reading Files
@@ -318,7 +316,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: # true
       share: true
