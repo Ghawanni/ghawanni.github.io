@@ -21,7 +21,7 @@ title                    : "اسم مبتكر لمدونة غونيّة 🐳 �
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "محمد غوني"
-description              : "مدونة تقنية عربية خفيفة مقدمة لكم بكل الـ🍉 من محمد غوني 🐳"
+description              : "مدونة تقنية عربية خفيفة فيها تشكيلة مقالات هندسة برمجيات، علم بيانات، وريادة أعمال. مقدمة لكم من محمد غوني."
 url                      : "ghawanni.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "ghawanni/ghawanni.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
