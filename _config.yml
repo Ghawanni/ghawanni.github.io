@@ -123,7 +123,7 @@ author:
 
     أب لثلاث قطط رهيبة، وزوج لعالمة بيانات عالمية. 🧠
     
-    سويت هذه المدونة لعل وعسى أحد يستفيد من معلومة تعلمتها، واثراء للمحتوى العربي (التقني خصوصا) 🙌🏻✨
+    سويت هذه المدونة لعل شخص يستفيد من معلومة تعلمتها، واثراء للمحتوى العربي (التقني خصوصا) 🙌🏻✨
 
   location         : "الرياض"
   email            : "ghawanni.m@gmail.com"
@@ -134,18 +134,6 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/m7md_ghawanni"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/ghawanni"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:ghawanni.m@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://ghawanni.com"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/llamanaama/"
 
 
 # Site Footer
@@ -157,9 +145,6 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/m7md_ghawanni"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/ghawanni"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/llamanaama/"
