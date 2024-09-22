@@ -1,6 +1,10 @@
 ---
 tags: [قواعد بيانات,هندسة برمجيات,علم بيانات, Elasticsearch]
 permalink: intro-to-elasticsearch-pt-3
+header:
+  overlay_image: /assets/images/covers/intro-to-es-3.png
+  overlay_filter: 0.8
+
 ---
 
 اليوم حنغوص زيادة في (ES) Elasticsearch، الجميل، وحنشوف كيف تشتغل هذه التقنية اللطيفة.

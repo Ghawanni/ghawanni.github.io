@@ -1,6 +1,9 @@
 ---
 tags: [قواعد بيانات,هندسة برمجيات,علم بيانات, Elasticsearch]
 permalink: intro-to-elasticsearch-pt-1
+header:
+  overlay_image: /assets/images/covers/intro-to-es-1.png
+  overlay_filter: 0.8
 ---
 اليوم حنتكلم عن Elasticsearch (ES)، وحنغطي مفاهيم كثيرة سوا.
 المقالة تفترض انك تعرف اساسيات عن قواعد البيانات وعندك فكرة عن تطوير البرمجيات وقيد اتعاملت مع live production systems.
