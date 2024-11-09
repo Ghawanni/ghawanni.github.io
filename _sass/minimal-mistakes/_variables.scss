@@ -10,6 +10,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Almarai:wght@300;400;700;800&display=swap");
 // Rubik font import
 @import url("https://fonts.googleapis.com/css2?family=Almarai:wght@300;400;700;800&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap");
+// IBM Plex Sans Arabic
+@import url("https://fonts.googleapis.com/css2?family=Almarai:wght@300;400;700;800&family=IBM+Plex+Sans+Arabic:wght@100;200;300;400;500;600;700&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap");
 
 $doc-font-size: 16 !default;
 
@@ -23,6 +25,7 @@ $sans-serif: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
   "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
 $monospace: "Rubik", "Monaco", Consolas, "Lucida Console", monospace !default;
 $almarai: "Almarai", $sans-serif !default;
+$ibm-plex: "IBM Plex Sans Arabic", $sans-serif !default;
 
 /* serif typefaces */
 $georgia: Georgia, serif !default;
@@ -31,16 +34,16 @@ $bodoni: "Bodoni MT", serif !default;
 $calisto: "Calisto MT", serif !default;
 $garamond: Garamond, serif !default;
 
-$global-font-family: $almarai !default;
-$header-font-family: $almarai !default;
-$caption-font-family: $almarai !default;
+$global-font-family: $ibm-plex !default;
+$header-font-family: $ibm-plex !default;
+$caption-font-family: $ibm-plex !default;
 
 /* type scale */
 $type-size-1: 2.441em !default; // ~39.056px
 $type-size-2: 1.953em !default; // ~31.248px
 $type-size-3: 1.563em !default; // ~25.008px
 $type-size-4: 1.25em !default; // ~20px
-$type-size-5: 1em !default; // ~16px
+$type-size-5: 1.15em !default; // ~16px
 $type-size-6: 0.75em !default; // ~12px
 $type-size-7: 0.6875em !default; // ~11px
 $type-size-8: 0.625em !default; // ~10px
