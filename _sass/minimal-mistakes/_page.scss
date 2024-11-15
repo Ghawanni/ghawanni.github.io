@@ -17,10 +17,16 @@
   }
 }
 
+html {
+  overflow-x: hidden;
+}
+
 body {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  overflow-x: hidden;
+  position: relative;
   min-height: 100vh;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;

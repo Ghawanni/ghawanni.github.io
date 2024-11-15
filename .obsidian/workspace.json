@@ -48,23 +48,9 @@
               "icon": "lucide-file",
               "title": "2024-08-22-كيف تصير مدير منتج يعرف الناس ايش تبغا بالضبط"
             }
-          },
-          {
-            "id": "36242ff68568a237",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linkedin Posts.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Linkedin Posts"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -217,12 +203,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "af82977c17041107",
+  "active": "2b02032d1d548db4",
   "lastOpenFiles": [
-    "_posts/2024-08-22-كيف تصير مدير منتج يعرف الناس ايش تبغا بالضبط.md",
-    "Linkedin Posts.md",
-    "_posts/2024-11-09-(جديد ✨) كيف تصير مدير منتج يعرف الناس ايش تبغا بالضبط - الجزء الثالث.md",
     "_posts/2024-09-05-كيف تصير مدير منتج يعرف الناس ايش تبغا بالضبط - الجزء الثاني.md",
+    "_posts/2024-11-09-(جديد ✨) كيف تصير مدير منتج يعرف الناس ايش تبغا بالضبط - الجزء الثالث.md",
+    "_posts/2024-08-22-كيف تصير مدير منتج يعرف الناس ايش تبغا بالضبط.md",
+    "_site/Linkedin Posts.md",
+    "_site/Linkedin Posts/index.html",
+    "_site/Linkedin Posts",
+    "Linkedin Posts.md",
     "_site/Excalidraw/Drawing 2024-11-09 11.07.31.excalidraw/index.html",
     "_site/Excalidraw/Drawing 2024-11-09 11.07.31.excalidraw",
     "Excalidraw/Drawing 2024-11-09 11.07.31.excalidraw.md",
@@ -246,11 +235,9 @@
     "assets/images.md",
     "_site/assets/images 3.md",
     "_site/assets/images 3/index.html",
-    "_site/assets/images 3",
     "assets/images 3.md",
     "assets/images 2.md",
     "_site/assets/images 2.md",
-    "_site/assets/images 2/index.html",
     "assets/images 1.md",
     "_site/assets/images 1.md",
     "_site/assets/images.md",
@@ -260,7 +247,6 @@
     "الدقة.md",
     "_site/الدقة.md",
     "_posts/2024-05-05-بيفابت #1 - السوق التقني: تجارب، وقصص، وآراء.md",
-    "_site/Excalidraw/Drawing 2024-11-01 22.33.33.excalidraw.png",
-    "().md"
+    "_site/Excalidraw/Drawing 2024-11-01 22.33.33.excalidraw.png"
   ]
 }
